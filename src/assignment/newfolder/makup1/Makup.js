@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import Makup2 from "../makup2/Makup2";
 import Makup3 from "../makup3/Makup3"
 import fakedata from "./tool.json"
